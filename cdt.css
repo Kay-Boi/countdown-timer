@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: blue;
+    position: relative;
+    top: 240px;
+  }
+  #countdown {
+    font-size: 2em;
+    color: #333;
+  }
